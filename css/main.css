@@ -1,4 +1,4 @@
-body {
+body{
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 20px;
   color: #eee;
@@ -140,7 +140,8 @@ hr.small {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-bottom: 50px;
+  margin-bottom: 0px;
+  
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
