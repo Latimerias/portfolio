@@ -2,7 +2,7 @@
 layout: "post"
 title: "Multiple Galleries"
 subtitle: "A post with multiple galleries arranged with ISOTOPE"
-active: "journal"
+active: "notes"
 image:
   feature: "pc007.jpg"
 date: "2016-02-01"

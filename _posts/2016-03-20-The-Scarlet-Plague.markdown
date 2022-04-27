@@ -2,7 +2,7 @@
 layout:     post
 title:      "The Scarlet Plague"
 subtitle:   "Jack London"
-active: journal
+active: notes
 image:
   feature: "pc002.jpg"
 date:       2016-03-20

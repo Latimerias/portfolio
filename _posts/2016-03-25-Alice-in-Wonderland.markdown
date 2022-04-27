@@ -2,7 +2,7 @@
 layout:     post
 title:      "Alice in Wonderland"
 subtitle:   "Lewis Carroll"
-active: journal
+active: notes
 image:
   feature: "pc001.jpg"
 date:       2016-03-25

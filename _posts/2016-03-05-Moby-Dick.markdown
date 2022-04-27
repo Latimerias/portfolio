@@ -2,7 +2,7 @@
 layout:     post
 title:      "Moby Dick"
 subtitle:   "Herman Melville"
-active: journal
+active: notes
 image:
   feature: "pc005.jpg"
 date:       2016-03-05 

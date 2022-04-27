@@ -2,7 +2,7 @@
 layout:     post
 title:      "At the Earth's Core"
 subtitle:   "Edgar Rice Burroughs"
-active: journal
+active: notes
 image:
   feature: "pc004.jpg"
 date:       2016-03-10 

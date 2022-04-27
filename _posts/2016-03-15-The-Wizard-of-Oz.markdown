@@ -2,7 +2,7 @@
 layout:     post
 title:      "The Wizard of Oz"
 subtitle:   "L. Frank Baum"
-active: journal
+active: notes
 image:
   feature: "pc003.jpg"
 date:       2016-03-15

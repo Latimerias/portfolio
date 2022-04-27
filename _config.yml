@@ -1,7 +1,7 @@
 # Site settings
 title: Joshua Weber
 email: "latimeriasfolio@gmail.com"
-description: "Photo Journal"
+description: "Photo notes"
 url: "https://latimerias.github.io"
 baseurl: "/portfolio"
 facebook_username: ""
@@ -35,7 +35,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://latimerias.github.io/portfolio/gallery/"  
-  - JOURNAL: "https://latimerias.github.io/portfolio/journal/"
+  - NOTES: "https://latimerias.github.io/portfolio/notes/"
   - ABOUT: "https://latimerias.github.io/portfolio/about/"
 
 # All translation keys
@@ -53,10 +53,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-paginate_path: "/journal/page:num/"
-permalink: "/journal/:title/"
-categories_path: "/journal/category/"
-tags_path: "/journal/tag/"
+paginate_path: "/notes/page:num/"
+permalink: "/notes/:title/"
+categories_path: "/notes/category/"
+tags_path: "/notes/tag/"
 gems: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

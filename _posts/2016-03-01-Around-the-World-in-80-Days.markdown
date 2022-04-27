@@ -2,7 +2,7 @@
 layout:     post
 title:      "Around the World in 80 Days"
 subtitle:   "Jules Verne"
-active: journal
+active: notes
 image:
   feature: "pc006.jpg"
 date:       2016-03-01 
