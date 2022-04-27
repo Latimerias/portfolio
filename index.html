@@ -78,7 +78,7 @@ images:
 <div id="footer" role="contentinfo">
 		<ul class="soc-icons">
 
-                 {% if site.facebook_username %}
+<!--                {% if site.facebook_username %}
 			<li>
    <a href="https://facebook.com/{{ site.facebook_username }}" style="
 color:#dddddd; target="_blank" title="Facebook">
@@ -116,12 +116,20 @@ color:#dddddd; target="_blank" title="Flickr">
 color:#dddddd; target="_blank" title="DeviantArt">
 <i class="fa fa-deviantart"></i> </span>
 </a></li>	
-    {% endif %}
+    {% endif %} -->
                     {% if site.github_username %}
                 <li>
    <a href="https://github.com/{{ site.github_username }}" style="
 color:#dddddd; target="_blank" title="Github">
               <i class="fa fa-github"></i>
+                     </span>
+                   {% endif %}
+<li>
+                    {% if site.github_username %}
+                <li>
+   <a href="https://linkedin.com/in/{{ site.github_username }}" style="
+color:#dddddd; target="_blank" title="Linkedin">
+              <i class="fa fa-linkedin"></i>
                      </span>
                    {% endif %}
 <li>
