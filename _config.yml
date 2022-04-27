@@ -1,15 +1,16 @@
 # Site settings
-title: PHOTORAMA
-email: ""
+title: Joshua Weber
+email: "latimeriasfolio@gmail.com"
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://latimerias.github.io"
+baseurl: "/portfolio"
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
-github_username:  ""
+instagram_username: "coeleca"
+github_username:  "latimerias"
 deviantart_username: ""
 flickr_username: ""
+linkedin_username: "joshua-weber-357354203"
 discus_shortname: ""
 share: true
 
@@ -33,9 +34,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://latimerias.github.io/portfolio/gallery/"  
+  - JOURNAL: "https://latimerias.github.io/portfolio/journal/"
+  - ABOUT: "https://latimerias.github.io/portfolio/about/"
 
 # All translation keys
 translations:
