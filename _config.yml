@@ -35,6 +35,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://latimerias.github.io/portfolio/gallery/"  
+  - TECHNICAL: "https://latimerias.github.io/portfolio/technical/"  
   - NOTES: "https://latimerias.github.io/portfolio/notes/"
   - ABOUT: "https://latimerias.github.io/portfolio/about/"
 
