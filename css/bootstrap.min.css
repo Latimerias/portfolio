@@ -2046,6 +2046,7 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  padding-top: 35px;
 }
 
 @media (min-width:768px) {
@@ -2071,6 +2072,7 @@ pre code {
   padding-left: 15px;
   margin-right: 15px;
   margin-left: 15px;
+  padding-bottom: 100px;
 }
 
 .row {
