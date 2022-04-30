@@ -2046,7 +2046,7 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-  padding-top: 35px; /* josh weber header padding for mobile */
+  padding-top: 75px; /* josh weber header padding for mobile */
 }
 
 @media (min-width:768px) {
