@@ -95,8 +95,8 @@
 		jQuery('#kenburns').kenburns({
 			images: gallery_set,
 			frames_per_second: 30,
-			display_time: 5000,
-			fade_time: 1000,
+			display_time: 6000,
+			fade_time: 1000,	
 			zoom: 1.075,
 			background_color:'#F7F6F5'
 		});
