@@ -1,12 +1,9 @@
 ---
 layout:     post
 title:      "Mass Renaming Files"
-subtitle:   "Lewis Carroll"
 active: notes
-image:
-  feature: "pc001.jpg"
 date:       2021-03-25
-header-img: "img/postcover/pc001.jpg"
+header-img: "img/postcover/renaming-files-thumbnail.jpg"
 tags: [tag01, tag02]
 categories: [cat01, cat02]
 comments: false
