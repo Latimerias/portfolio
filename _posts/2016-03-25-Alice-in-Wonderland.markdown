@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Test in Wonderland"
+title:      "Bunny in Wonderland"
 subtitle:   "Lewis Carroll"
 active: notes
 image:

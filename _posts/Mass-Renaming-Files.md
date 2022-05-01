@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mass Renaming Files in Powershell"
+active: notes
 date: 2021-30-08
 header-img: img/postcover/renaming-files-thumbnail.jpg
 comments: false
