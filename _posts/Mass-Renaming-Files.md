@@ -1,11 +1,15 @@
 ---
-layout: post
-title: "Mass Renaming Files in Powershell"
+layout:     post
+title:      "Mass Renaming Files"
+subtitle:   "Lewis Carroll"
 active: notes
-date: 2021-30-08
-header-img: img/postcover/renaming-files-thumbnail.jpg
+image:
+  feature: "pc001.jpg"
+date:       2016-03-25
+header-img: "img/postcover/pc001.jpg"
+tags: [tag01, tag02]
+categories: [cat01, cat02]
 comments: false
-
 ---
 
 Sometimes images or any type of file sequence gets rendered out with the wrong naming convention and if you have hundreds of files manual renaming is out of the question. Heres how you can automatically rename file sequences on windows through the powershell.
