@@ -2,7 +2,7 @@
 layout:     post
 title:      "Rendering In Pieces"
 active: notes
-date:       2021-06-20
+date:       2021-07-20
 image:
   feature: "splitrender-thumbnail.jpg"
 header-img: "img/postcover/splitrender-thumbnail.jpg"
