@@ -9,6 +9,7 @@ header-img: "img/postcover/splitrender-thumbnail.jpg"
 tags: [tag01, tag02]
 categories: [cat01, cat02]
 comments: false
+youtubeId: Bg90LFmESAA
 ---
 
 # EDIT #
@@ -27,7 +28,7 @@ Default values for a 1:1 aspect ration with 86 px overlap (this cuts of 86 pixel
 
 ---
 
-
+{% include youtubePlayer.html id=page.youtubeId %}
 
 Scene too large to render as a single piece? Luckily in houdini the fix is simple. First I will note that its impossible to split a render up by creating a new camera matrix which you may be inclined to do first, you must use a camera with identical matrix settings and be able to crop or pan its view.
 
