@@ -4,6 +4,7 @@ title:      "Mass Renaming Files"
 active: notes
 date:       2021-03-25
 tags: [tag01, tag02]
+header-img: "img/postcover/renaming-files-thumbnail.jpg"
 categories: [cat01, cat02]
 comments: false
 ---
