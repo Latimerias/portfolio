@@ -40,7 +40,7 @@ The screen window size is simple, we put a value of .5 in because we split the i
 
 The screen window x/y specifies the center point of the cameras views and the screen window size is a multiplier of the camera window without reducing resolution. To understand these parameters its best to look at the camera window as a 2D screen with a center point of 0,0:x/y. If we shrunk our screen window size down to .5x.5 it is the correct size for a single piece but is still centered at the center of the original camera which is 0,0. We need to center it at it corresponding corner. If we wanted to center it at the top left corner we would move it -.25 along the x and .25 up. 
 
-![screen](..\img\notes\screen-layout.jpg)
+![screen](..\..\img\notes\screen-layout.jpg)
 The 1920x1080 rectangle represents our original camera view and the red rectangle is the scales camera with the screen window size set to .5x.5 and screen window x/y set to -.25x.25.
 
 The parameters to set up a 1280x720 into 4 pieces are screen window x/y .214844/.215278 and window size of .570312999 which during compositing corresponds to a 158px overlap in x direction and 90px in y direction. This gives a final image of ~2243x1178.
