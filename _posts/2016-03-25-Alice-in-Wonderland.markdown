@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Rabbit in Wonderland"
+title:      "Bitch in Wonderland"
 subtitle:   "Lewis Carroll"
 active: notes
 image:
