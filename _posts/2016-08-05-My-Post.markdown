@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "BANANA MAN"
+title:      "BANANA MONKEY"
 subtitle:   "Herman Melville"
 active: technical
 image:
