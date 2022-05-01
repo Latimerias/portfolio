@@ -22,10 +22,10 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #337ab7;
+  color: #ffffff7e;
   transition: color .4s;
   text-decorarion: none;
-  font-size: 50%;
+  font-size: 75%;
 }
 a:hover,
 a:focus {
