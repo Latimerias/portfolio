@@ -3,7 +3,7 @@ layout:     post
 title:      "Rendering In Pieces"
 active: notes
 date:       2021-06-20
-header-img: "img/postcover/renaming-files-thumbnail.jpg"
+header-img: "img/postcover/splitrender-thumbnail.jpg"
 tags: [tag01, tag02]
 categories: [cat01, cat02]
 comments: false
