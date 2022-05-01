@@ -3,7 +3,7 @@ layout:     post
 title:      "Mass Renaming Files"
 active: notes
 date:       2021-03-25
-header-img: "img/postcover/renaming-files-thumbnail.jpg"
+header-img: "img/postcover/pc008.jpg"
 tags: [tag01, tag02]
 categories: [cat01, cat02]
 comments: false
