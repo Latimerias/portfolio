@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Mass Renaming Files - test"
+title:      "Mass Renaming Files"
 active: notes
 date:       2021-03-25
 tags: [tag01, tag02]
