@@ -2,7 +2,7 @@
 layout:     post
 title:      "Test Post"
 subtitle:   "Herman Melville"
-active: notes
+active: technical
 image:
   feature: "pc005.jpg"
 date:       2018-03-05 
