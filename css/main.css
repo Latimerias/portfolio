@@ -25,7 +25,7 @@ a {
   color: #ffffff7e;
   transition: color .4s;
   text-decorarion: none;
-  font-size: 75%;
+  /* font-size: 75%; */
 }
 a:hover,
 a:focus {
