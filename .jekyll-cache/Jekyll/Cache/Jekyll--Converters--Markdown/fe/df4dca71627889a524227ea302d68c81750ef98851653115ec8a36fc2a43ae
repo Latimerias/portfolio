@@ -1,4 +1,4 @@
-I"z<h1 id="edit">EDIT</h1>
+I"D<h1 id="edit">EDIT</h1>
 
 <p>With mantra being fused out and Karma taking over a new NDC (normal device coordinates) system taking over this is much simpler. The values are represented as minx, maxx, miny, maxy. If you want to render the top quarter of the image you just need values of -1, 0, 0, 1 as the total image dimension in NDC are 2x2 with 1 being the max and -1 being the min and 0,0 the center.</p>
 
@@ -28,7 +28,9 @@
   </iframe>
 </div>
 
-<p>Scene too large to render as a single piece? Luckily in houdini the fix is simple. First I will note that its impossible to split a render up by creating a new camera matrix which you may be inclined to do first, you must use a camera with identical matrix settings and be able to crop or pan its view.</p>
+<h1 id="mantra">MANTRA</h1>
+
+<p>First I will note that its impossible to split a render up by creating a new camera matrix which you may be inclined to do first, you must use a camera with identical matrix settings and be able to crop or pan its view.</p>
 
 <p>To do this in houdini start off with your scene set up normally and create the camera you want to split into pieces. Once you have your main camera duplicate it 4 times to split the render into 4 pieces. We want to make sure that these cameras have the exact settings as the original.</p>
 

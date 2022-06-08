@@ -6,8 +6,8 @@ date:       2022-03-25
 image:
   feature: "design-resources-thumbnail.jpg"
 header-img: "img/postcover/design-resources-thumbnail.jpg"
-tags: [tag01, tag02]
-categories: [cat01, cat02]
+tags: []
+categories: []
 comments: false
 ---
 
