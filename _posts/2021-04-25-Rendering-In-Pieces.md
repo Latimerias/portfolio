@@ -6,8 +6,8 @@ date:       2021-04-25
 image:
   feature: "splitrender-thumbnail.jpg"
 header-img: "img/postcover/splitrender-thumbnail.jpg"
-tags: [tag01, tag02]
-categories: [cat01, cat02]
+tags: []
+categories: []
 comments: false
 youtubeId: Bg90LFmESAA
 ---
