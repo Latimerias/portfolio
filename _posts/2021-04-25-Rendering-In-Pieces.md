@@ -30,7 +30,9 @@ Default values for a 1:1 aspect ration with 86 px overlap (this cuts of 86 pixel
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-Scene too large to render as a single piece? Luckily in houdini the fix is simple. First I will note that its impossible to split a render up by creating a new camera matrix which you may be inclined to do first, you must use a camera with identical matrix settings and be able to crop or pan its view.
+# MANTRA
+
+First I will note that its impossible to split a render up by creating a new camera matrix which you may be inclined to do first, you must use a camera with identical matrix settings and be able to crop or pan its view.
 
 To do this in houdini start off with your scene set up normally and create the camera you want to split into pieces. Once you have your main camera duplicate it 4 times to split the render into 4 pieces. We want to make sure that these cameras have the exact settings as the original. 
 
