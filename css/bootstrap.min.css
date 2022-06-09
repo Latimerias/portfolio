@@ -5279,13 +5279,13 @@ textarea.input-group-sm>.input-group-btn>.btn {
   position: relative;
   float: right;
   padding: 4px 8px;
-  margin-top: 8px;
-  margin-right: 30px;
+  margin-top: 22px;
   margin-bottom: 8px;
   background-color: transparent;
   background-image: none;
-  border: 2px groove rgba(255,255,255,.75);
-  border-radius: 4px;
+  /* border: 2px groove rgba(255,255,255,.75); */
+  border-radius: 0px;
+  border-color: transparent;
 }
 
 .navbar-toggle:focus {
