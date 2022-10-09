@@ -1,0 +1,5 @@
+I"å<h2 id="lookdev-for-vegetation-assets">LookDev for Vegetation Assets</h2>
+
+<p>USD references files on disk which can make it difficult to LookDev assets like vegetation which can have very scene specific parameters like SSS. A ease of life workaround is
+that when you use point instancing you can control shader parameters with point attributes. So for example I have an external USD asset of a tree, the base asset has no SSS making it look dead in my scene but instead of going back into my asset file and rewriting out the material I can create an attribute called <code class="language-plaintext highlighter-rouge">sss</code> which matches the parameter name on the principled shader and set it to any value which will activate SSS.</p>
+:ET
