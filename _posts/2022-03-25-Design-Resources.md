@@ -58,7 +58,7 @@ comments: false
 
 - [Rain Water Harvesting Guide](https://www.eugene-or.gov/DocumentCenter/View/9780/Rainwater-Harvesting-Workshop-presentation?bidId=){:target="_blank"}
 
-[](){:target="_blank"}
+- [Master Gardener OSU](https://extension.oregonstate.edu/mg/metro){:target="_blank"}
 
 
 
@@ -68,6 +68,7 @@ comments: false
 
 ###### Mapping Data
 - [Mapbox Mapping Data for Buildings, Traffic, Weather, Demographics etc..](https://www.mapbox.com/){:target="_blank"}
+
 - [CADmapper Mapping Data for Buildings and Roads](https://cadmapper.com/pro/home){:target="_blank"}
 
 - [Google Maps Customizer in Browser](http://www.chengfolio.com/google_map_customizer){:target="_blank"}
@@ -80,6 +81,7 @@ com/software/){:target="_blank"}
 - [LiDAR Data (Mainly in the U.S.)](https://portal.opentopography.org/datasets){:target="_blank"}
 
 - [WRLD3D High Quality Mapping Data (paid)](https://www.wrld3d.com/3d-maps/mapping-data#OUR-MAP-DATA-SOURCES){:target="_blank"}
+
 - [Heightmaps (Global Coverage)](https://tangrams.github.io/heightmapper/#4.70833/14.514/-3.134){:target="_blank"}
 
 
@@ -89,14 +91,15 @@ com/software/){:target="_blank"}
 
 - [U.S. Weather/Climate Data and Records](https://www.weather.gov/wrh/climate?wfo=pqr){:target="_blank"}
 
-[](){:target="_blank"}
+- [IMapInvasives Invasive Species Data](https://imapinvasives.natureserve.org/imap/services/page/map.html){:target="_blank"}
 
-[](){:target="_blank"}
+ - [City of Portland Open Data](https://gis-pdx.opendata.arcgis.com/){:target="_blank"}
 
-[](){:target="_blank"}
+- [U.S. Census Data](https://data.census.gov/){:target="_blank"}
 
-[](){:target="_blank"}
+- [Hidden Hydrology: Hisorical Ecology in Portland](https://www.hiddenhydrology.org/projects/portland/ecological-inspirations/){:target="_blank"}
 
+- [Portland METRO Data](https://rlisdiscovery.oregonmetro.gov/search?q=UGB){:target="_blank"}
 ---
 
 ## 2D ASSETS
