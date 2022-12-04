@@ -198,6 +198,7 @@ com/software/){:target="_blank"}
 
 - [3Dsky 3D Models](https://3dsky.org/){:target="_blank"}
 
-
+### Photoscans
+- [Flower, Animal and Insect Scans](https://sketchfab.com/ffishAsia-and-floraZia/models/){:target="_blank"}
 
 
