@@ -17,6 +17,7 @@ comments: false
     base_network = hou.node('/stage/objnet1/import')
 
     def tree(target_stage, soppath, name):
+        #sopimport
         sopimport = target_stage.createNode("sopimport", name)
         sopimport.parm("soppath").set(soppath)
         sopimport.parm("asreference").set(1)
@@ -25,16 +26,22 @@ comments: false
         sopimport.parm("enable_savepath").set(1)
         sopimport.parm("authortimesamples").set("never")
         
+        #loft
+        loft = target_stage.createNode("loftpayloadinfo")
+        
+        #usdrop
         usdrop = target_stage.createNode("usd_rop")
         usdrop.parm("lopoutput").set(f"$HIP/../../usd/assets/{name}/{name}.usdc")
         
-        usdrop.setInput(0, sopimport)
+        loft.setInput(0, sopimport)
+        usdrop.setInput(0, loft)
         target_stage.layoutChildren()
         
     out_nodes = base_network.glob("OUT_*")
     for node in out_nodes:
         name = node.name()
         tree(target_stage, node.path(), name[4:])
+   
 
 '''  
 
