@@ -22,8 +22,7 @@ texture = hou.ui.readInput(message="Texture Name.ext")
 nodes = hou.vopNodeTypeCategory().nodeType("mtlximage").instances()
 
 for node in nodes:
-    print(os.path.basename(node.parm("file").eval()))
     if os.path.basename(node.parm("file").eval()) == texture[1]:
         print(node.path())
-        
+
 '''
