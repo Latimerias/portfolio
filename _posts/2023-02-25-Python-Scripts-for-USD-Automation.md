@@ -11,8 +11,6 @@ comments: false
 
 ## Turn all "OUT_" prefixed nodes into payload USD components
 
-'''
-
     target_stage = hou.node('/stage/geo_to_usd')
     base_network = hou.node('/stage/objnet1/import')
 
@@ -41,13 +39,8 @@ comments: false
     for node in out_nodes:
         name = node.name()
         tree(target_stage, node.path(), name[4:])
-   
-
-'''  
 
 ## Import USD files into LOPS
-
-'''
 
     import os
 
@@ -62,6 +55,5 @@ comments: false
         for file in files:
             if file != "geo.usdc":
                 reference(target_stage, os.path.join(subdir, file), file[:-5])
-                
-'''
+            
 

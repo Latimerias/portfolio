@@ -1,0 +1,18 @@
+I"2<h2 id="find-texture-locations-im-materialx-image-vops">Find Texture Locations im materialX Image VOPs</h2>
+<p>Useful for when you have a large scene that is returning missing texture references but you don’t know where.</p>
+
+<p>’’’</p>
+
+<p>import hou
+import os</p>
+
+<p>texture = hou.ui.readInput(message=”Texture Name.ext”)</p>
+
+<p>nodes = hou.vopNodeTypeCategory().nodeType(“mtlximage”).instances()</p>
+
+<p>for node in nodes:
+    if os.path.basename(node.parm(“file”).eval()) == texture[1]:
+        print(node.path())</p>
+
+<p>’’’</p>
+:ET
