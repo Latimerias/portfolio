@@ -10,7 +10,7 @@ comments: false
 ---
 
 ## Find Texture Locations im materialX Image VOPs
-Useful for when you have a large scene that is returning missing texture references but you don't know where.
+Useful for when you have a large scene that is returning missing texture references but you don't know where. You can also use houdini "Find Node" search option with the evaluated parameter filter and type filter.
 
 
     import hou
