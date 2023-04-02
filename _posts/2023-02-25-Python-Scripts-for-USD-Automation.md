@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Foliage Rendering in Houdini Karma"
+title:      "Python Scripts for USD Automation"
 active: notes
-date:       2021-03-25
+date:       2023-02-25
 header-img: "img/postcover/renaming-files-thumbnail.jpg"
 tags: []
 categories: []
