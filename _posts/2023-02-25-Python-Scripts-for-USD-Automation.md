@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Python Scripts for USD Automation"
+title:      "Houdini Python Scripts for USD Automation"
 active: notes
 date:       2023-02-25
 header-img: "img/postcover/renaming-files-thumbnail.jpg"
