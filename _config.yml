@@ -55,7 +55,7 @@ highlighter: rouge
 permalink: pretty
 paginate: 5
 paginate_path: "/notes/page:num/"
-permalink: "/notes/:title/"
+#permalink: "/notes/:title/"
 categories_path: "/notes/category/"
 tags_path: "/notes/tag/"
 gems: 
