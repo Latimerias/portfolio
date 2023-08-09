@@ -3,8 +3,6 @@ layout:     post
 title:      "Karma Guide"
 active: notes
 date:       2023-08-07
-image:
-  feature: "gallery/archive/uvl/greenhouse_shot_001.jpg"
 header-img: "gallery/archive/uvl/greenhouse_shot_001.jpg"
 tags: []
 categories: []
