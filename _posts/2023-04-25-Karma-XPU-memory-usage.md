@@ -3,8 +3,6 @@ layout:     post
 title:      "Karma XPU Memory Optimization"
 active: notes
 date:       2022-04-25
-image:
-  feature: "design-resources-thumbnail.jpg"
 header-img: "img/postcover/design-resources-thumbnail.jpg"
 tags: []
 categories: []
