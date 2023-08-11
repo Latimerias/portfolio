@@ -15,5 +15,5 @@ This is a list of all the bugs or limitations I have encountered with Karma XPU,
 
 ## Custom AOVs do not support 64-bit primvars
 
-When writing out custom AOVs sourced from primvars XPU does not support 64-bit primvars. When creating an primvar in an attribute wrangle you can change this in the bindings tab which will determine the USD data type from the VEX data type. 
+When writing out custom AOVs sourced from primvars XPU does not support 64-bit primvars. When creating an primvar in an attribute wrangle you can change this in the bindings tab which will determine the USD data type from the VEX data type. May have been fixed in 19.5.704 August 10th, 2023.
 
