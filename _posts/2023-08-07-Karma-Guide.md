@@ -31,8 +31,6 @@ Using the utilities that ship with houdini you have a couple options. [hoiiotool
 
         examples of imaketx
 
-        NOTE: bug with imaketx not performing color transforms when exporting to .rat, only when to .exr. (SESI #140312)
-
         imaketx "diffuse_srgb_texture.png" --colormanagement=ocio --colorconvert srgb_texture acescg  "diffuse_acescg.rat" 
 
 This is straightforward except for the --colorconvert arguments because you cannot pass in something like Utility-sRGB-Texture which you are used to seeing. The argument you actually want to pass in for Utility-sRGB-Texture is srgb_texture. You can find this through the .OCIO config file and will see that color spaces have a property called **aliases** that contains a list of alternative names. You will want the one that is no special characters, spaces or caps. You can also drop down an **OCIO transform vop** to see the list of all ocio color space names and aliases.
