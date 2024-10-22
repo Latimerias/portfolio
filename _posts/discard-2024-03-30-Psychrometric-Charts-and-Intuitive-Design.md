@@ -16,6 +16,7 @@ Psychrometric charts have 4 values on them; Dry-bulb Temperature, Wet-bulb Tempe
 
 - Dry-bulb Temperature
   - The ambient air temperature, what you would see on a house thermometer. 
+  
 - Wet-bulb Temperature
   - Generically this is a measurement of temperature when evaporative cooling is taking place. This is important because it helps you gauge how much potential there is for evaporative cooling. Evaporative cooling works by using thermal energy towards the evaporation of water, instead of it ending up in the air or mass. Because this process adds water to the air, the cooling potential is defined by the initial relative humidity of the air. If the air starts at 0% relative humidity you can add a lot of water vapor to it which means a lot of thermal energy is used and more evaporative cooling will take place. Vice verse if the starting relative humidity is 100% no water vapor can be added to the air before it will change back into a liquid.
   

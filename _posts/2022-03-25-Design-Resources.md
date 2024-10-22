@@ -93,7 +93,7 @@ com/software/){:target="_blank"}
 
 - [IMapInvasives Invasive Species Data](https://imapinvasives.natureserve.org/imap/services/page/map.html){:target="_blank"}
 
- - [City of Portland Open Data](https://gis-pdx.opendata.arcgis.com/){:target="_blank"}
+- [City of Portland Open Data](https://gis-pdx.opendata.arcgis.com/){:target="_blank"}
 
 - [U.S. Census Data](https://data.census.gov/){:target="_blank"}
 
